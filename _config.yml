@@ -1,0 +1,28 @@
+name: 11th Dot
+favicon: null
+layout_spectrum: 0.6158618845511228
+typography_spectrum: 0.09978669555857778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.15274639311246574
+  lightness: 0.9382818257436156
+  saturation: 0.1979359514079988
+  rhythmicContrast: 0.7873415038920939
+purpose: []
